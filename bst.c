@@ -3,8 +3,6 @@
 #include <assert.h>
 #include <string.h>
 
-#define MAX(a, b) ((a) > (b) ? (a) : (b))
-
 typedef struct _bstree BSTree;
 struct _bstree {
    int value;
