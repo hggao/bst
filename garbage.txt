@@ -1,0 +1,5 @@
+This file is created for testing git rm.
+
+OK, here it is.
+
+
